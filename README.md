@@ -15,7 +15,8 @@ And [React]
 ### 1. Clone the repository:
 
 ```bash
-git https://github.com/mohamed-alwakiel/Full-Stack-Movie-Streaming-App.git
+git clone https://github.com/mohamed-alwakiel/Full-Stack-Movie-Streaming-App.git
 cd Full-Stack-Movie-Streaming-App
+cd server
 go mod tidy
 go run main.go
